@@ -11,7 +11,7 @@
 ![Gabrielgr200](https://github-readme-stats.vercel.app/api?username=Gabrielgr200&show_icons=true&theme=gradient&locale=pt-br&bg_color=45,fffafa,f5f5f5,c4c4c4
 )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgr200&layout=compact)
 
 ## Tecnologias que eu uso
 
