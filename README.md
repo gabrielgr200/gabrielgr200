@@ -43,3 +43,8 @@
 
 
 #### Sou apaixonado por tecnologia e inovação, usando a programação para criar soluções inteligentes, otimizar processos e transformar desafios em resultados que impactam vidas. 🚀🚀
+
+## Ultimos Projetos Feitos:
+- [Clone do Site da Xbox - React](https://xbox-clone-tau.vercel.app/)<br/>
+- [Clone do Site do GitHub - Next.JS](https://github-clone-lemon.vercel.app/)<br/>
+- [Site de Café - Next.JS](https://coffee-pi-five.vercel.app/)
